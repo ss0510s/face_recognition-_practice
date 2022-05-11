@@ -1,4 +1,4 @@
-# face_recognition-_practice
+# face_recognition_practice
 
 pretrained model : https://github.com/deepinsight/insightface  
 reference code : https://towardsdatascience.com/building-a-face-recognition-system-using-scikit-learn-in-python-163fd423513b
